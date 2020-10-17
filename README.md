@@ -28,5 +28,5 @@ MIT
 
 Author Information
 ------------------
-Islam Kambarov
+Tyncha Tov
 
